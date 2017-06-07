@@ -1,6 +1,6 @@
-﻿var k
-var i
-var b
+var k;
+var i;
+var b;
 var cari;
 var cari2;
 var cari3;
